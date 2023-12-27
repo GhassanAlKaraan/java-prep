@@ -1,1 +1,2 @@
-## Java exercises collection for interview preparation 
+# Java Preparation
+Java exercises collection for interview preparation.
